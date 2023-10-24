@@ -3,11 +3,11 @@
 <b>Hi, I'm Brice Toffolon, a student at Epitech Paris in my final year !<b>
 
 <h2>💫 About Me:</h2>
-- 🌱 I’m currently learning to use AWS service to do Machine Learning and Topic Analysis
-- 👯 I’m looking to collaborate on <a href="https://www.lonma-ritoff.com">Lonma One</a>
-- 💬 Ask me about Typescript, Python, C++
-- 📫 How to reach me: contact@brice-toffolon.fr.
-- ⚡ Fun fact: Since my childhood, i'm a 🚗 enthusiasts ! I like old mercedes that are indestructible ! Like the 190e
+- 🌱 I’m currently learning to use AWS service to do Machine Learning and Topic Analysis<br>
+- 👯 I’m looking to collaborate on <a href="https://www.lonma-ritoff.com">Lonma One</a><br>
+- 💬 Ask me about Typescript, Python, C++<br>
+- 📫 How to reach me: contact@brice-toffolon.fr.<br>
+- ⚡ Fun fact: Since my childhood, i'm a 🚗 enthusiasts ! I like old mercedes that are indestructible ! Like the 190e<br>
 <br>
 
 <h2>💻 My Skills</h2>
@@ -29,14 +29,6 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 </p>
-
-## ⚡️ Github Stat:
-
-<div>
-
-![](https://github-readme-stats.vercel.app/api?username=bricetoffolon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-</div>
 
 <h2> 📲 Let's connect..!:</h2>
 <p>
