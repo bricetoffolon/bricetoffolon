@@ -1,9 +1,9 @@
 
 <h2>Hello World 👋</h2>
-<b>Hi, I'm Brice Toffolon, a student at Epitech Paris in my final year !<b>
+<b>Hi, I'm Brice Toffolon, a devOps engineer <b>
 
 <h2>💫 About Me:</h2>
-- 🌱 I’m currently learning to use AWS service to do Machine Learning and Topic Analysis<br>
+- 🌱 I’m currently seeking to land a DevOps job<br>
 - 👯 I’m looking to collaborate on <a href="https://www.lonma-ritoff.com">Lonma One</a><br>
 - 💬 Ask me about Typescript, Python, C++<br>
 - 📫 How to reach me: contact@brice-toffolon.fr.<br>
