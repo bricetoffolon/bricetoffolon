@@ -1,10 +1,9 @@
 
 <h2>Hello World 👋</h2>
-<b>Hi, I'm Brice Toffolon, a devOps engineer <b>
+<b>Hi, I'm Brice Toffolon, a Software engineer at Société Générale Securities Services <b>
 
 <h2>💫 About Me:</h2>
-- 🌱 I’m currently seeking to land a DevOps job<br>
-- 👯 I’m looking to collaborate on <a href="https://www.lonma-ritoff.com">Lonma One</a><br>
+- 🌱 I'm currently learning Go !
 - 💬 Ask me about Typescript, Python, C++<br>
 - 📫 How to reach me: contact@brice-toffolon.fr.<br>
 - ⚡ Fun fact: Since my childhood, i'm a 🚗 enthusiasts ! I like old mercedes that are indestructible ! Like the 190e<br>
