@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3500&pause=800&width=520&lines=Hi%2C+I'm+Brice+Toffolon;Cloud+%26+DevOps+Engineer;Automating+the+boring+stuff;Aiming+to+be+a+clever+engineer+%3B)" alt="Brice Toffolon, Cloud & DevOps Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3500&pause=800&width=520&lines=Hi%2C+I'm+Brice+Toffolon;Cloud+%26+DevOps+Engineer;Automating+the+boring+stuff;Aiming+to+be+a+clever+engineer+%3B" alt="Brice Toffolon, Cloud & DevOps Engineer"/>
 </a>
 
 As a car enthusiast, I admire 90s Mercedes, built to last developed by clever engineers.  
